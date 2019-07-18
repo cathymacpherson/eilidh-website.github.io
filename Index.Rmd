@@ -1,0 +1,116 @@
+---
+title: "homepage"
+---
+
+<style>
+* 
+.container {
+  position: relative;
+  width: auto;
+  top: auto;
+  left: 0px;
+}
+.image {
+  display: block;
+  width: auto;
+  height: auto;
+}
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: auto;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+
+table, tr, td {
+  border:0px;
+  border-collapse:collapse;
+  border-spacing:0px;
+  style="width:900px";
+}
+
+td,img { 
+  padding:0px; 
+  border-width:0px; 
+  margin:0px; 
+}
+
+.headingfont { 
+  font-family: Vladimir Script;
+  font-weight: bold;
+  font-size: 3.5em;
+  color: #000000; 
+  }
+  
+.parafont{
+  font-size: 1.1em;
+}
+
+</style>
+
+<body>
+
+<div class="headingfont"><p>**Welcome!**</p></div>
+
+<div class="parafont"><p> Welcome to the website for Eilidh's hen party! 
+
+Here you will find information on the various activities planned throughout the day. We are going to start with ceramics painting at <a href="https://www.ceramika.co.uk/" target="_blank">**Ceramika Art Studio**</a> at 2pm, before heading to <a href="https://www.carmelitehotels.com/" target="_blank">**The Carmelite Hotel**</a> for cocktail making at 4pm. Afterwards, the plan is to head for dinner at <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a> at 6.30pm. You can find a summary of the events alongside the associated costs <a href="approximatecosts.html" target="_blank">**here**</a>.
+
+Feel free to come to some or all of the activities. Just let us know which you'd like to attend by filling in <a href="attendanceform.html" target="_blank">**this form!**</a>
+
+Each tab contains information regarding the activities planned as well as their locations. For those coming to more than one part, we will all travel together between locations :)</p></div>
+
+&nbsp;
+
+
+<table class="no-spacing" cellspacing="0" width="900">
+
+<tr>
+<td>
+<div class="container">
+<a href="ceramika.html">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/pottery.jpg" alt="Pottery" class="image">
+  <div class="overlay">Ceramics</div>
+</div>
+</td>
+<td>
+<div class="container">
+<a href="CocktailMaking.html">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/cocktail.jpg"   alt="Cocktail Making" class="image">
+  <div class="overlay">Cocktail Making</div>
+</div>
+</td>
+<td>
+<div class="container">
+<a href="dinner.html">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/spiritualist.jpg" alt="Dinner" class="image">
+  <div class="overlay">Dinner</div>
+</div>
+</td>
+<td>
+<div class="container">
+<a href="attendanceform.html">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/drinks1.png" alt="Drinks" class="image">
+  <div class="overlay">Ready to Party?</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+</body>
+</a>
+</a>
+</a>
+</a>

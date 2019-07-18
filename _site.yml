@@ -1,0 +1,23 @@
+
+name: "Eilidh's Hen Party - 10th Aug 2019"  
+author: "Cathy Macpherson"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: journal  
+    toc: true
+    toc_float: false
+navbar:  
+  title: "Eilidh's Hen Party"
+  left:
+  - text: "Ceramics Painting"
+    href: ceramika.html
+  - text: "Cocktail Making"
+    href: cocktailmaking.html
+  - text: "Dinner & Drinks"
+    href: dinner.html
+  - text: "Attendance Form"
+    href: attendanceform.html
+  - text: "Approximate Costs"
+    href: approximatecosts.html
