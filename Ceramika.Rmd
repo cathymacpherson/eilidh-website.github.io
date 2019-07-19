@@ -78,9 +78,9 @@ title: " "
 </table>
 
 
-<div class="parafont"><p>
+<div><p>
 
-<table class="tablespacing" cellspacing="10px" width="900">
+<table class="tablespacing" cellspacing="10px" width="100%">
 
 <tr>
 <td valign = "top">
@@ -91,4 +91,5 @@ title: " "
 </td>
 </table>
 </div>
+
 </body>
