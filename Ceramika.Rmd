@@ -2,25 +2,6 @@
 title: " "
 ---
 
-<style>
-
-
- .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-
-.demobox {
-  background-color: #581845;
-  padding: 20px;
-  border: 0px; 
-  align: center
-}
-
-</style>
-
 <body>
 
 
@@ -29,6 +10,7 @@ title: " "
     </head>
     <body>
 
+<div>
 
 <table class="tablespacing2" cellspacing="0px" width="900">
 <tr>
@@ -53,6 +35,7 @@ title: " "
 </tr>
 </table>
 
+</div>
 
 <div><p>
 
