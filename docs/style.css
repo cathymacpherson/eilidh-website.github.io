@@ -70,7 +70,7 @@ td,img {
 .headingfont2 { 
   font-family: MS Gothic;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 150%;
   color: black; 
   background-color: #FADADD;
   }
@@ -79,6 +79,8 @@ td,img {
   border-collapse: collapse;
   border-spacing: 0;
   background-color: #FADADD;
+  width: 100%;
+  height: 150%;
 }
 
 .tablespacing {
