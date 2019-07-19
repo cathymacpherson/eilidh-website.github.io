@@ -10,7 +10,7 @@ title: " "
 
 Here you will find information on the various activities planned throughout the day. We are going to start with ceramics painting at <a href="https://www.ceramika.co.uk/" target="_blank">**Ceramika Art Studio**</a> at 2pm, before heading to <a href="https://www.carmelitehotels.com/" target="_blank">**The Carmelite Hotel**</a> for cocktail making at 4pm. Afterwards, the plan is to head for dinner at <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a> at 6.30pm. You can find a summary of the events alongside the associated costs <a href="approximatecosts.html" target="_blank">**here**</a>.
 
-Feel free to come to some or all of the activities. Just let us know which you'd like to attend by filling in <a href="attendanceform.html" target="_blank">**this form!**</a>.
+Feel free to come to some or all of the activities. Just let us know which you'd like to attend by filling in <a href="AttendanceForm.html" target="_blank">**this form!**</a>
 
 Navigate through the tabs at the top of the page for information regarding the activities planned as well as their locations. For those coming to more than one part, we will all travel together between locations :)</p></div>
 
@@ -23,7 +23,7 @@ Navigate through the tabs at the top of the page for information regarding the a
 <td>
 <div class="container">
 <a href="Ceramika.html">
-  <img src="Images/pottery.jpg" alt="Pottery" class="image" />
+  <embed src="Images/pottery.jpg" alt="Pottery" type="image/svg+xml" />
   <div class="overlay">Ceramics</div>
 </div>
 </td>
