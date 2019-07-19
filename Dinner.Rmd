@@ -60,19 +60,19 @@ title: " "
 <table class="tablespacing2" cellspacing="0px" width="900">
 <tr>
 <td>
-  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/The Spiritualist/bar_re.jpg">
+  <img class="image" src="Images/The Spiritualist/bar_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/The Spiritualist/drink_re.jpg">
+  <img class="image" src="Images/The Spiritualist/drink_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/The Spiritualist/drinks1.png">
+  <img class="image" src="Images/The Spiritualist/drinks1.png">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/The Spiritualist/room_re.jpg">
+  <img class="image" src="Images/The Spiritualist/room_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/The Spiritualist/drink2_re.jpg">
+  <img class="image" src="Images/The Spiritualist/drink2_re.jpg">
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ title: " "
 
 &nbsp;
 
-<embed src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/spiritualistmenu.pdf" width="800px" height="1200px" />
+<embed src="Images/spiritualistmenu.pdf" width="800px" height="1200px" />
 
 </center>
 
