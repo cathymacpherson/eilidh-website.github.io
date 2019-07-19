@@ -10,8 +10,10 @@ title: " "
     </head>
     <body>
 
-<div>
 
+<div class="headingfont2"><center><p>**- Ceramics Painting -**</p></center></div>
+
+<div>
 <table class="tablespacing2" cellspacing="0px" width="900">
 <tr>
 <td>
@@ -30,11 +32,7 @@ title: " "
   <img class="image" src="Images/Ceramika/pottery_re.jpg" />
 </td>
 </tr>
-<tr>
-<div class="headingfont2"><center><p>**- Ceramics Painting -**</p></center></div>
-</tr>
 </table>
-
 </div>
 
 <div><p>
