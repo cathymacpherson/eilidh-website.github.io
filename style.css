@@ -87,6 +87,6 @@ td,img {
 }
 
 .image {      
-  height: 150px;
-  width: 220px;
+  height: auto;
+  width: auto;
 }
