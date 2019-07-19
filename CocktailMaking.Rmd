@@ -11,7 +11,7 @@ title: " "
     <body>
 
 
-<table class="tablespacing2" cellspacing="0px" width="900">
+<table class="tablespacing2" cellspacing="0px" width="100%">
 <tr>
 <td>
   <img class="image" src="Images/Cocktail Making/cocktail1_re.jpg">
