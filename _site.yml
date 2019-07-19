@@ -12,12 +12,12 @@ navbar:
   title: "Eilidh's Hen Party"
   left:
   - text: "Ceramics Painting"
-    href: ceramika.html
+    href: Ceramika.html
   - text: "Cocktail Making"
-    href: cocktailmaking.html
+    href: CocktailMaking.html
   - text: "Dinner & Drinks"
-    href: dinner.html
+    href: Dinner.html
   - text: "Attendance Form"
-    href: attendanceform.html
+    href: AttendanceForm.html
   - text: "Approximate Costs"
-    href: approximatecosts.html
+    href: ApproximateCosts.html

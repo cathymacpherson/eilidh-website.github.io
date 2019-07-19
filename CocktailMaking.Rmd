@@ -1,5 +1,5 @@
 ---
-title: "cocktail making"
+title: ""
 ---
 
 <style>
