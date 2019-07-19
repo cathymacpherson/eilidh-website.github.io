@@ -8,6 +8,7 @@ output:
     theme: journal  
     toc: true
     toc_float: false
+    css: style.css
 navbar:  
   title: "Eilidh's Hen Party"
   href: Index.html

@@ -1,0 +1,51 @@
+
+.container {
+  position: relative;
+  width: auto;
+  top: auto;
+  left: 0;
+}
+.image {
+  display: block;
+  width: auto;
+  height: auto;
+}
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: auto;
+  transition: .5s ease;
+  opacity:0;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+
+table, tr, td {
+  border:0;
+  border-collapse:collapse;
+  border-spacing:0;
+}
+
+td,img { 
+  padding:0; 
+  border-width:0; 
+  margin:0; 
+}
+
+.headingfont { 
+  font-family: Vladimir Script;
+  font-weight: bold;
+  font-size: 3.5em;
+  color: #000000; 
+  }
+  
+.parafont{
+  font-size: 1.1em;
+}

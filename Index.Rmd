@@ -2,63 +2,6 @@
 title: ""
 ---
 
-<style>
-* 
-.container {
-  position: relative;
-  width: auto;
-  top: auto;
-  left: 0px;
-}
-.image {
-  display: block;
-  width: auto;
-  height: auto;
-}
-.overlay {
-  position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1; 
-  width: auto;
-  transition: .5s ease;
-  opacity:0;
-  color: white;
-  font-size: 20px;
-  padding: 20px;
-  text-align: center;
-}
-.container:hover .overlay {
-  opacity: 1;
-}
-
-table, tr, td {
-  border:0px;
-  border-collapse:collapse;
-  border-spacing:0px;
-  style="width:900px";
-}
-
-td,img { 
-  padding:0px; 
-  border-width:0px; 
-  margin:0px; 
-}
-
-.headingfont { 
-  font-family: Vladimir Script;
-  font-weight: bold;
-  font-size: 3.5em;
-  color: #000000; 
-  }
-  
-.parafont{
-  font-size: 1.1em;
-}
-
-</style>
-
 <body>
 
 <div class="headingfont"><p>**Welcome!**</p></div>
@@ -80,28 +23,28 @@ Each tab contains information regarding the activities planned as well as their 
 <td>
 <div class="container">
 <a href="ceramika.html">
-  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/pottery.jpg" alt="Pottery" class="image">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/pottery.jpg" alt="Pottery" class="image" />
   <div class="overlay">Ceramics</div>
 </div>
 </td>
 <td>
 <div class="container">
 <a href="CocktailMaking.html">
-  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/cocktail.jpg"   alt="Cocktail Making" class="image">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/cocktail.jpg"   alt="Cocktail Making" class="image" />
   <div class="overlay">Cocktail Making</div>
 </div>
 </td>
 <td>
 <div class="container">
 <a href="dinner.html">
-  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/spiritualist.jpg" alt="Dinner" class="image">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/spiritualist.jpg" alt="Dinner" class="image" />
   <div class="overlay">Dinner</div>
 </div>
 </td>
 <td>
 <div class="container">
 <a href="attendanceform.html">
-  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/drinks1.png" alt="Drinks" class="image">
+  <img src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/drinks1.png" alt="Drinks" class="image" />
   <div class="overlay">Ready to Party?</div>
 </div>
 </td>
@@ -109,8 +52,10 @@ Each tab contains information regarding the activities planned as well as their 
 </table>
 </div>
 
+</a>
+</a>
+</a>
+</a>
+
 </body>
-</a>
-</a>
-</a>
-</a>
+
