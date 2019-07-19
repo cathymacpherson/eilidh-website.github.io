@@ -13,33 +13,23 @@ title: " "
 
 <div class="headingfont2"><center><p>**- Ceramics Painting -**</p></center></div>
 
-<div>
+<div class="container">
 <table class="tablespacing2" cellspacing="0px" width="900">
 <tr>
 <td>
-  <div class="container">
   <img class="image" src="Images/Ceramika/bowl_re.jpg" />
-  </div>
 </td>
 <td>
-  <div class="container">
   <img class="image" src="Images/Ceramika/mug_re.jpg" />
-  </div>
 </td>
 <td>
-  <div class="container">
   <img class="image" src="Images/Ceramika/eevee2.png" />
-  </div>
 </td>
 <td>
-  <div class="container">
   <img class="image" src="Images/Ceramika/plates_re.jpg" />
-  </div>
 </td>
 <td>
-  <div class="container">
   <img class="image" src="Images/Ceramika/pottery_re.jpg" />
-  </div>
 </td>
 </tr>
 </table>
