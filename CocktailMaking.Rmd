@@ -60,19 +60,19 @@ title: ""
 <table class="tablespacing2" cellspacing="0px" width="900">
 <tr>
 <td>
-  <img class="image" src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/Cocktail Making/cocktail1_re.jpg">
+  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/Cocktail Making/cocktail1_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/Cocktail Making/cocktail2_re.jpg">
+  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/Cocktail Making/cocktail2_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/Cocktail Making/ted1.png">
+  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/Cocktail Making/ted1.png">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/Cocktail Making/cocktail3_re.jpg">
+  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/Cocktail Making/cocktail3_re.jpg">
 </td>
 <td>
-  <img class="image" src="/C:/Users/cathy/OneDrive/PhD/SGSSS Data Visualisation Course/Session 2 - RL/Images/Cocktail Making/cocktail4_re.jpg">
+  <img class="image" src="/C:/Users/cathy/Documents/GitHub/website.github.io/Images/Cocktail Making/cocktail4_re.jpg">
 </td>
 </tr>
 <tr>
