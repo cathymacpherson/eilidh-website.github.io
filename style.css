@@ -19,8 +19,8 @@
   width: auto;
   transition: .5s ease;
   opacity:0;
-  font-size: 20px;
-  padding: 20px;
+  font-size: 40%;
+  padding: 10%;
   text-align: center;
 }
 .container:hover .overlay {
