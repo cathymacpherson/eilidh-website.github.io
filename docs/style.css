@@ -1,15 +1,4 @@
 
-.headingfont { 
-  font-family: Vladimir Script;
-  font-weight: bold;
-  font-size: 3.5em;
-  color: #000000; 
-  }
-  
-.parafont {
-  font-size: 1.1em;
-}
-
 .container {
   position: relative;
   width: auto;
@@ -50,4 +39,13 @@ td,img {
   margin:0; 
 }
 
-
+.headingfont { 
+  font-family: Vladimir Script;
+  font-weight: bold;
+  font-size: 3.5em;
+  color: #000000; 
+  }
+  
+.parafont {
+  font-size: 1.1em;
+}
