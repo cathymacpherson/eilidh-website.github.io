@@ -2,52 +2,6 @@
 title: " "
 ---
 
-<style>
-
-.tablespacing2 {
-  border-collapse: separate;
-  border-spacing: 0;
-  background-color: #FADADD;
-}
-
-.tablespacing {S
-  border-collapse: separate;
-  border-spacing: 15px;
-}
-
-.image {
-  height: 150px;
-  width: 220px;
-}
-
- .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-
-.headingfont { 
-  font-family: MS Gothic;
-  font-weight: bold;
-  font-size: 2em;
-  color: black; 
-  background-color: #FADADD;
-  }
-  
-  .parafont{
-  font-size: 1.1em;
-}
-
-.demobox {
-  background-color: #581845;
-  padding: 20px;
-  border: 0px; 
-  align: center
-}
-
-</style>
-
 <body>
 
 
@@ -76,7 +30,7 @@ title: " "
 </td>
 </tr>
 <tr>
-<div class="headingfont"><center><p>**- Cocktail Making -**</p></center></div>
+<div class="headingfont2"><center><p>**- Cocktail Making -**</p></center></div>
 </tr>
 </table>
 

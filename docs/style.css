@@ -5,7 +5,22 @@
   top: auto;
   left: 0;
 }
-.image {
+
+ .center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
+.demobox {
+  background-color: #581845;
+  padding: 20px;
+  border: 0; 
+}
+
+.indeximage {
   display: block;
   width: auto;
   height: auto;
@@ -17,10 +32,10 @@
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
   color: #f1f1f1; 
   width: auto;
+  height:auto;
   transition: .5s ease;
   opacity:0;
-  font-size: 40;
-  padding: 10%;
+  padding: 20%;
   text-align: center;
 }
 .container:hover .overlay {
@@ -44,8 +59,32 @@ td,img {
   font-weight: bold;
   font-size: 3.5em;
   color: #000000; 
-  }
+}
   
 .parafont {
   font-size: 1.1em;
+}
+
+.headingfont2 { 
+  font-family: MS Gothic;
+  font-weight: bold;
+  font-size: 2em;
+  color: black; 
+  background-color: #FADADD;
+  }
+  
+  .tablespacing2 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #FADADD;
+}
+
+.tablespacing {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
+.image {      
+  height: 150px;
+  width: 220px;
 }
