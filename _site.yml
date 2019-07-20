@@ -22,3 +22,5 @@ navbar:
     href: AttendanceForm.html
   - text: "Approximate Costs"
     href: ApproximateCosts.html
+  - text: "Test Page"
+    href: testpage.html
