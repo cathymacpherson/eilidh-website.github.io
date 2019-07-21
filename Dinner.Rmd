@@ -23,7 +23,7 @@ title: " "
   <img class="image" src="Images/The Spiritualist/drink_re.JPG" />
 </td>
 <td>
-  <img class="image" src="Images/The Spiritualist/dinner1.png" />
+  <img class="image" src="Images/The Spiritualist/drinks1.png" />
 </td>
 <td>
   <img class="image" src="Images/The Spiritualist/room_re.JPG" />
