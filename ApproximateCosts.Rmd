@@ -80,9 +80,14 @@ title: ""
 <td><p>On the day<p></td>
 </tr>
 <tr>
-<td><p>Pizza</p></td>
-<td><p>variable</p></td>
-<td><p>On the day<p></td>
+<td><p>Snacks</p></td>
+<td><p>£5</p></td>
+<td><p>In advance*<p></td>
+</tr>
+<tr>
+<td><p>Studio Fee</p></td>
+<td><p>TBC</p></td>
+<td><p>In advance*<p></td>
 </tr>
 <tr>
 </tr>
@@ -104,7 +109,7 @@ title: ""
 </tr>
 <tr>
 <td><p>drinks</p></td>
-<td><p>variable</p></td>
+<td><p>Variable</p></td>
 <td><p>On the day</td>
 </tr>
 </table>
