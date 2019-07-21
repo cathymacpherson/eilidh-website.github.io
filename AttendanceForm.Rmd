@@ -25,7 +25,7 @@ title: ""
 <div class="headingfont"><p>**Attending Eilidh's Hen Party?**</p></div>
 <h2>Please fill in the form below!</h2>
 <p>
-Please fill in the form below to let us know which parts of the hen party you are able to attend, whether you have any dietary requirements, and your food selection for dinner. I have also included a box at the end should you have any feedback or questions! :) 
+Please fill in the form below to let us know which parts of the hen party you are able to attend, whether you have any dietary requirements, and your food selection for dinner. I have also included a box at the end should you have any feedback or questions! :) Please complete this by **July 28th** as we are required to submit numbers to The Spiritualist by the end of July.
 </p>
 <p>
 If you cannot view the link below, please click <a href="https://www.surveymonkey.co.uk/r/2GDBYT8" target="_blank">**here.**</a>
@@ -34,8 +34,9 @@ If you cannot view the link below, please click <a href="https://www.surveymonke
 </p>
 <body>
 
-<div class="center">
+<div class="center"> <div class ="responsepdf">
 <script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd6S8p9IZIBPm8CHT6J_2BlGL4lFh10rtYCMMV5NnTYk6Nh.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com> Create your own user feedback survey </a>
+</div>
 </div>
 
 </body>
