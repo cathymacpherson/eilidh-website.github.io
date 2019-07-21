@@ -11,25 +11,25 @@ title: " "
     <body>
 
 
-<div class="headingfont2"><center><p>**- Ceramics Painting -**</p></center></div>
+<div class="headingfont2"><center><p>**- Cocktail Making -**</p></center></div>
 
 <div class="container">
 <table class="tablespacing2" cellspacing="0px" width="100%">
 <tr>
 <td>
-  <img class="image" src="Images/Ceramika/bowl_re.jpg" />
+  <img class="image" src="Images/Cocktail Making/cocktail1_re.jpg" />
 </td>
 <td>
-  <img class="image" src="Images/Ceramika/mug_re.jpg" />
+  <img class="image" src="Images/Cocktail Making/cocktail2_re.jpg" />
 </td>
 <td>
-  <img class="image" src="Images/Ceramika/eevee2.png" />
+  <img class="image" src="Images/Cocktail Making/ted1.png" />
 </td>
 <td>
-  <img class="image" src="Images/Ceramika/plates_re.jpg" />
+  <img class="image" src="Images/Cocktail Making/cocktail3_re.jpg" />
 </td>
 <td>
-  <img class="image" src="Images/Ceramika/pottery_re.jpg" />
+  <img class="image" src="Images/Cocktail Making/cocktail4_re.jpg" />
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@ title: " "
   <table class="tablespacing" cellspacing="10px" width="100%">
 <tr>
 <td valign = "top">
-<div class="parafont"><p></p><p></p><p>First up we are heading to ceramics painting at <a href="https://www.ceramika.co.uk/" target="_blank">**Ceramika Art Studio**</a>, located at 201 Hardgate, Aberdeen AB11 6YB.<p>Here we are going to take a ceramics painting class. This can get a little messy but we will be provided with aprons by Ceramika :) Alternatively, feel free to take along an old baggy t-shirt to wear over your clothes. You'll get to choose what to paint - they have a range of items including mugs and teapots!</p><p>We will also be taking along drinks and nibbles for everyone to graze on! For this activity, please take a long cash as each item has a slightly different cost (typically ranging from <span>&#163;</span>15 - <span>&#163;</span>20, although teapots are <span>&#163;</span>25).</p></p></p> 
+<div class="parafont"><p></p><p></p><p>After ceramics painting we'll be heading to <a href="https://www.carmelitehotels.com/" target="_blank">**The Carmelite Hotel**</a>, located at Stirling St, Aberdeen AB11 6JU. Here we are going to do cocktail making!</p><p>The cocktail making class takes place in the Balmoral room at a private bar and lasts approximately 1.5 hours. Drinks wise, each person will receive an arrival Bellini, two cocktails, and a tequila rose shot :)</p><p></p> 
 </td>
 </table> 
   </div>
@@ -52,7 +52,7 @@ title: " "
 <tr>
 <td valign = "center">
   <div class = "floatingmap">
-<div class="mapouter"><div class="gmap_canvas"><iframe width="350" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=ceramika%20art%20studio%20&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:350px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="350" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=the%20carmelite&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.yellowrocketagency.com">Yellow Rocket Agency</a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:350px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>
 </td>
 </table> 
 </div> 
