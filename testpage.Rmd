@@ -60,9 +60,17 @@ title: " "
 </div>
 
 
-<div><h2>Menu</h2></div>
+<div class="headingfont2"><center><p>**- Menu -**</p></center></div>
 
-<div class="parafont"><p> <div class="parafont"><p> The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist**</a> directly. </p></p></div>
+  <div>
+  <table class="tablespacing" cellspacing="10px" width="100%">
+<tr>
+<td valign = "center">
+  <div class = "parafont">
+<div class="mapouter"><<p> The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist**</a> directly. </p></div>
+</td>
+</table> 
+</div> 
 
 &nbsp;
 
