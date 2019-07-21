@@ -36,11 +36,10 @@ title: " "
 </div>
 
 <div><p>
-
 <table class="tablespacing" cellspacing="10px" width="100%">
 <tr>
 <td valign = "top">
-<div class="parafont"><p></p><p></p><p>xFirst up we are heading to ceramics painting at <a href="https://www.ceramika.co.uk/" target="_blank">**Ceramika Art Studio**</a>, located at 201 Hardgate, Aberdeen AB11 6YB.<p>Here we are going to take a ceramics painting class. This can get a little messy but we will be provided with aprons by Ceramika :) Alternatively, feel free to take along an old baggy t-shirt to wear over your clothes. You'll get to choose what to paint - they have a range of items including mugs and teapots!</p><p>We will also be taking along drinks and nibbles for everyone to graze on! For this activity, please take a long cash as each item has a slightly different cost (typically ranging from <span>&#163;</span>15 - <span>&#163;</span>20, although teapots are <span>&#163;</span>25).</p></p></p> 
+<div class="parafont"><p></p><p></p><p>First up we are heading to ceramics painting at <a href="https://www.ceramika.co.uk/" target="_blank">**Ceramika Art Studio**</a>, located at 201 Hardgate, Aberdeen AB11 6YB.<p>Here we are going to take a ceramics painting class. This can get a little messy but we will be provided with aprons by Ceramika :) Alternatively, feel free to take along an old baggy t-shirt to wear over your clothes. You'll get to choose what to paint - they have a range of items including mugs and teapots!</p><p>We will also be taking along drinks and nibbles for everyone to graze on! For this activity, please take a long cash as each item has a slightly different cost (typically ranging from <span>&#163;</span>15 - <span>&#163;</span>20, although teapots are <span>&#163;</span>25).</p></p></p> 
 </td>
 </table>
 </div>
