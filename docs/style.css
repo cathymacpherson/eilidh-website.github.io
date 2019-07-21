@@ -1,0 +1,123 @@
+
+.container {
+  position: relative;
+  width: auto;
+  top: auto;
+  left: 0;
+}
+
+ .center {
+  margin: auto;
+  width: 50%;
+  border: 0;
+}
+
+
+.demobox {
+  background-color: #581845;
+  padding: 20px;
+  border: 0; 
+  width: auto;
+  height: auto;
+  display: inline-block;
+}
+
+.indeximage {
+  display: block;
+  width: auto;
+  height: auto;
+}
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: auto;
+  height:auto;
+  transition: .5s ease;
+  opacity:0;
+  padding: 20%;
+  text-align: center;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+
+table, tr, td {
+  border:0;
+  border-collapse:collapse;
+  border-spacing:0;
+}
+
+td,img { 
+  padding:0; 
+  border-width:0; 
+  margin:0; 
+}
+
+.headingfont { 
+  font-family: Vladimir Script;
+  font-weight: bold;
+  font-size: 3.5em;
+  color: #000000; 
+}
+  
+.parafont {
+  font-size: 100%;
+}
+
+.headingfont2 { 
+  font-family: MS Gothic;
+  font-weight: bold;
+  font-size: 170%;
+  color: black; 
+  background-color: #FADADD;
+  }
+  
+  .tablespacing2 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #FADADD;
+  width: 100%;
+  height: 150%;
+}
+
+.tablespacing {
+  border-collapse: separate;
+  border-spacing: 15px;
+  width: 100%;
+  height: 150%;
+  float: left;
+}
+
+.image {      
+  height: auto;
+  width: auto;
+}
+
+.floatingmap {
+  float: right;
+}
+
+.responsecontainer {
+    display: grid;
+              grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+              grid-gap: 5px;
+              grid-auto-flow: row;
+              grid-area: auto;
+              list-style: outside none none;
+              margin: 0;
+              padding: 20px 10px 45px;
+              text-align: left;
+}
+
+.responsecontainer > div > img {  
+    width: 100%;  
+    height: 100%;  
+}
+
+.responsepdf{
+    max-width: 100%;
+}
+

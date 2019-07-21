@@ -2,26 +2,6 @@
 title: " "
 ---
 
-<style>
-
-
- .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
-
-
-.demobox {
-  background-color: #581845;
-  padding: 20px;
-  border: 0px; 
-  align: center
-}
-
-</style>
-
 <body>
 
 
@@ -31,62 +11,62 @@ title: " "
     <body>
 
 
+<div class="headingfont2"><center><p>**- Dinner -**</p></center></div>
+
+<div class="container">
 <table class="tablespacing2" cellspacing="0px" width="100%">
 <tr>
 <td>
-  <img class="image" src="Images/The Spiritualist/bar_re.JPG">
+  <img class="image" src="Images/The Spiritualist/bar_re.JPG" />
 </td>
 <td>
-  <img class="image" src="Images/The Spiritualist/drink_re.JPG">
+  <img class="image" src="Images/The Spiritualist/drink_re.JPG" />
 </td>
 <td>
-  <img class="image" src="Images/The Spiritualist/drinks1.png">
+  <img class="image" src="Images/The Spiritualist/drinks1.png" />
 </td>
 <td>
-  <img class="image" src="Images/The Spiritualist/room_re.JPG">
+  <img class="image" src="Images/The Spiritualist/room_re.JPG" />
 </td>
 <td>
-  <img class="image" src="Images/The Spiritualist/drink2_re.jpg">
+  <img class="image" src="Images/The Spiritualist/drink2_re.jpg" />
 </td>
 </tr>
-<tr>
-<div class="headingfont2"><center><p>**- Dinner -**</p></center></div>
-</tr>
-</table>
-
-<div class="parafont"><p>
-<table class="tablespacing" cellspacing="0" width="900">
-<tr>
-<td valign = "top">
-<div class="parafont"><p> For dinner we are heading to <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a>, located at 67 Langstane Place, AB11 6EN. We have booked a <a href="https://thespiritualistaberdeen.co.uk/private-dining/" target="_blank">**private room**</a> for dinner, equipped with a private bar and bartender.<p>Dinner is booked for 6.30pm, and we have the room until 10pm. The plan is to have dinner and drinks here, as well as to play some party games! We will need all food orders in advance, so check out the **menu below** and before completing <a href = "attendanceform.html" target="_blank">**this form**</a>.</p> 
-</td>
-<td>
-<div class="mapouter"><div class="gmap_canvas"><iframe width="350px" height="350px" id="gmap_canvas" src="https://maps.google.com/maps?q=the%20spiritualist%20aberdeen&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:350px;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:350px;}</style></div>
-</td>
 </table>
 </div>
 
-&nbsp;
 
-<h2> Menu </h2>
-<center>
+<div class="responsecontainer"> 
 
-&nbsp;
+<div><table class="tablespacing" cellspacing="10px" width="100%">
+<tr>
+<td valign = "top">
+<div class="parafont"><p> For dinner we are heading to <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a>, located at 67 Langstane Place, AB11 6EN. We have booked a <a href="https://thespiritualistaberdeen.co.uk/private-dining/" target="_blank">**private room**</a> for dinner, equipped with a private bar and bartender.<p>Dinner is booked for 6.30pm, and we have the room until 8.30pm. The plan is to have dinner and drinks here, as well as to play some party games! We will need all food orders in advance, so check out the **menu below** and before completing <a href = "attendanceform.html" target="_blank">**this form**.</a><p>The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist.**</a> directly.</p></p><p></p></div>
+</td>
+</table></div>
+  
+  
+<div><table class="tablespacing" cellspacing="10px" width="100%">
+<tr>
+<td valign = "center">
+<div class = "floatingmap">
+<div class="mapouter"><div class="gmap_canvas"><iframe width="350px" height="350px" id="gmap_canvas" src="https://maps.google.com/maps?q=the%20spiritualist%20aberdeen&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:350px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div></div>
+</td>
+</table> 
+</div> 
 
-<table class="no-spacing" cellspacing="0" width="900">
+</div>
+
+<div><table class="no-spacing" cellspacing="0" width="900">
 <tr>
 <td>
-<div class="parafont"><p> The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist**</a> directly. </p>
-</td>
+<h2> Menu </h2>
+<td>
 </tr>
-</table>
+</table></div>
 
-</p>
-
-&nbsp;
-
-<embed src="Images/spiritualistmenu.pdf" width="800px" height="1200px" />
-
-</center>
+<embed class = "responsepdf" src="Images/spiritualistmenu.pdf" width="800px" height="1200px" />
 
 </body>
+
+
