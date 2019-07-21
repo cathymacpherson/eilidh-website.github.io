@@ -59,40 +59,29 @@ title: " "
 </div>
 </div>
 
+<center>
 
-<div class="headingfont2"><center><p>**- Menu -**</p></center></div>
-
-  <div>
-  <table class="tablespacing" cellspacing="10px" width="100%">
-<tr>
-<td valign = "center">
-  <div class = "parafont">
-<div class="mapouter"><<p> The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist**</a> directly. </p></div>
-</td>
-</table> 
-</div> 
-
-&nbsp;
-
-<div>
-
-<table class="no-spacing" cellspacing="0" width="100%">
+<table class="no-spacing" cellspacing="0" width="900">
 <tr>
 <td>
-<div class="container">
-<a href="Ceramika.html">
-  <embed src="Images/spiritualistmenu.pdf" width="800px" height="1200px" />
-</div>
+<h2> Menu </h2>
+<td>
+</tr>
+<tr>
+<td>
+<div class="parafont"><p> The Spiritualist has a three course set-menu, linked below. We will need to give orders in beforehand, so please tell us your choices by filling in <a href = "AttendanceForm.html" target="_blank">**this form**</a>. If you have any dietary requirements, you'll be able to pop this on the form as well. If you require further information in order to make your choice, feel free to contact one of us, put a comment in the form, or contact <a href = "mailto: party@thespiritualistaberdeen.co.uk"> **The Spritualist**</a> directly. </p>
 </td>
 </tr>
 </table>
-</div>
 
-</a>
-</a>
-</a>
-</a>
+</p>
 
-</div>
+&nbsp;
+
+<embed class = "responsepdf" src="Images/spiritualistmenu.pdf" width="800px" height="1200px" />
+
+</center>
 
 </body>
+
+
