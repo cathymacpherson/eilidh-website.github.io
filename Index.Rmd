@@ -43,7 +43,7 @@ Navigate through the tabs at the top of the page for information regarding the a
 </td>
 <td>
 <div class="container">
-<a href="attendanceFform.html">
+<a href="attendanceform.html">
   <img src="Images/drinks1.png" alt="Drinks" class="image" />
   <div class="overlay">Ready to Party?</div>
 </div>
