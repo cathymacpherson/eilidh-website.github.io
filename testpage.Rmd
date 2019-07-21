@@ -42,7 +42,7 @@ title: " "
   <table class="tablespacing" cellspacing="10px" width="100%">
 <tr>
 <td valign = "top">
-<div class="parafont"><p> For dinner we are heading to <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a>, located at 67 Langstane Place, AB11 6EN. We have booked a <a href="https://thespiritualistaberdeen.co.uk/private-dining/" target="_blank">**private room**</a> for dinner, equipped with a private bar and bartender.<p>Dinner is booked for 6.30pm, and we have the room until 10pm. The plan is to have dinner and drinks here, as well as to play some party games! We will need all food orders in advance, so check out the **menu below** and before completing <a href = "attendanceform.html" target="_blank">**this form**</a>.</p> 
+<div class="parafont"><p> For dinner we are heading to <a href="https://thespiritualistaberdeen.co.uk/" target="_blank">**The Spiritualist**</a>, located at 67 Langstane Place, AB11 6EN. We have booked a <a href="https://thespiritualistaberdeen.co.uk/private-dining/" target="_blank">**private room**</a> for dinner, equipped with a private bar and bartender.<p>Dinner is booked for 6.30pm, and we have the room until 10pm. The plan is to have dinner and drinks here, as well as to play some party games! We will need all food orders in advance, so check out the **menu below** and before completing <a href = "attendanceform.html" target="_blank">**this form**</p><p></p> 
 </td>
 </table> 
   </div>
